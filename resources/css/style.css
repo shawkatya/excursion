@@ -7,10 +7,27 @@
 h1 {
     font-size: 50px;
     color: white;
+    font-weight: normal;
     
+}
+
+h2 {
+    font-size: 42px;
+    color: white;
+    font-weight: 300;
 }
 
 a {
     color: aquamarine;
     font-size: 16px;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+footer {
+    text-align: right;
+    color: grey;
 }
